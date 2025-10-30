@@ -13,3 +13,5 @@ In file "vdp_sys.py": true dynamic of Van Der Pol system
 The algorithm and some of the codes comes from the article: 
 
 Korda M, Mezić I. Linear predictors for nonlinear dynamical systems: Koopman operator meets model predictive control[J]. Automatica, 2018, 93: 149-160.
+
+This code fully leverages Python's matrix parallel computing capabilities to further boost computational speed.
